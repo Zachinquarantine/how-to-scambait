@@ -1,5 +1,5 @@
 # How to Scambait
-Complete start-to-finish guide on how to scambait!  Visit the guide at [howtoscambait.com](https://howtoscambait.com/)
+Complete start-to-finish guide on how to scambait!  Visit the guide at [howtoscambait.com](https://howtoscambait.com/).
 
 ### What is scambaiting?
 Scambaiting is the practice of wasting the time of (usually phone or email) scammers.  People scambait for a number of reasons, usually for revenge or entertainment.
