@@ -8,4 +8,4 @@ Scambaiting is the practice of wasting the time of (usually phone or email) scam
 This guide is an accumulation of knowledge from various forums, websites, and articles explaining everything you need to know about how to scambait, all in one place.
 
 ### How can I contribute?
-You can send in an issue or pull request.  All pages are written in mardown, so they are easy to edit.
+If you have a suggestion or think something should be changed, [open an Issue](https://github.com/NorthWatch/howtoscambait/issues) or [send a PR](https://github.com/NorthWatch/howtoscambait/pulls) on [GitHub](https://github.com/NorthWatch/how-to-scambait)!  All pages are written in Mardown, so they are easy to edit.
