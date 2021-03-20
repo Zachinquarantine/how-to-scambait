@@ -21,7 +21,7 @@ Here is a list of good email providers:
 ProtonMail is ideal for privacy and is ad-free, but scammers will often suspect it.  Gmail has been known to ban scambaiters, so keep that in mind.
 
 ### Fake Identity
-It is a good idea to create a fake identity that you use while email scambaiting.  More advanced email scambaiters even have multiple identities and email accounts, but when you're just starting off you can go to a website like [FauxID](https://fauxid.com/) to generate an identity, and [thispersondoesnotexist.com](https://thispersondoesnotexist.com/) is helpful for generating profile pictures.  You can use this information when creating your email account to make everything appear more ligitmate!
+It is a good idea to create a fake identity that you use while email scambaiting.  More advanced email scambaiters even have multiple identities and email accounts, but when you're just starting off you can go to a website like [FauxID](https://fauxid.com/) to generate an identity, and [This Person Does Not Exist](https://thispersondoesnotexist.com/) is helpful for generating profile pictures.  You can use this information when creating your email account to make everything appear more ligitmate!
 
 ### Grabify (and similar tools)
 [Grabify](https://grabify.link) is a great tool for collecting information on scammers.  It will often give you their general location, IP, device, and so on.  Usually there aren't many practical applications for this information, but if you are trying to collect information on a group of scammers (or if you just want to taunt a scammer with their real location), this can be helpful.
