@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documents
+title: Create Fake Documents
 parent: Email Scambaiting
 nav_order: 5
 ---
