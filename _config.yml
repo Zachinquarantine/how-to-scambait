@@ -1,2 +1,13 @@
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
+footer_content: "Created by <a href=\"https://north.watch\">NorthWatch</a>, the fake bank for scambaiting."
+gh_edit_link: true
+
+title: How to Scambait
+description: Complete start-to-finish guide on how to scambait!
+url: "https://howtoscambait.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/NorthWatch/how-to-scambait"
+gh_edit_branch: "master"
+gh_edit_view_mode: "tree"
